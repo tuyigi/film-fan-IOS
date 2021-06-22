@@ -1,0 +1,1 @@
+class Genre{  String id;  String name;  Genre({required this.id,required this.name});  factory Genre.fromMap(Map<String, dynamic> json) {    return Genre(        id:json['id'],        name:json['title']    );  }}

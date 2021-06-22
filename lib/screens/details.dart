@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';class Details extends StatefulWidget{  @override  State<StatefulWidget> createState() {    // TODO: implement createState    return _details();  }  }class _details extends State<Details>{  @override  Widget build(BuildContext context) {    // TODO: implement build    return Container(child: Text(""),);  }}
