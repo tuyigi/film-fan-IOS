@@ -1,0 +1,1 @@
+class DetailsMovie{  int id;  DetailsMovie({required this.id});}
